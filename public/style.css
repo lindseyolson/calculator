@@ -1,0 +1,28 @@
+.math {
+  margin-top: 1.5em;
+  margin-left: 8.5em;
+  margin-bottom: 0.5em;
+}
+
+#x {
+  margin-left: 1em;
+  margin-right: 8em;
+}
+
+#clearButton {
+  margin-left: 15em;
+}
+
+#outputDiv {
+  margin-left: 5em;
+  margin-top: 2em;
+}
+
+h1{
+  margin-left: 3em;
+  margin-top: 1em;
+  font-family: Trebuchet, sans-serif;
+  color: #3FBF88;
+  font-size: 22px;
+  margin-bottom: 1.5em;
+}
